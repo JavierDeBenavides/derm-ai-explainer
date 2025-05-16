@@ -28,3 +28,8 @@ derm-ai-explainer/
 ├── requirements.txt       # Dependencies
 ├── Dockerfile             # For deployment (optional)
 └── README.md              # Project documentation
+
+
+## 📥 Dataset
+
+https://www.kaggle.com/datasets/nischaydnk/isic-2020-jpg-256x256-resized?select=train-image
